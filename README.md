@@ -1,12 +1,12 @@
-### Olá! Eu sou o Vitor Fortis 👋
+### Olá! Eu sou o Vitor Alexandre👋
 
 
 - 🔭 Hoje trabalho com Planejamento de manutenção aeronáutica  e metotologia agil (Scrum Master).
 - 🌱 Estou estudandando java e Engenharia de Software.
 - <div align="center">
   <a href="https://github.com/vitorfortis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfortis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfortis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorfortis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfortis&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
