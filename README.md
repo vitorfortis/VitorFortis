@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor Alexandre👋
 
 
-- 🔭 Hoje trabalho como Especialista de dados).
+- 🔭 Hoje trabalho como Especialista de dados.
 - 🌱 Estou para as certificações AWS.
 - <div align="center">
   <a href="https://github.com/vitorfortis">
